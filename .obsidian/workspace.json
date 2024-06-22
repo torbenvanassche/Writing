@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Slime Warehouse/Concepts.md",
+                "file": "Card Former/design.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slime Warehouse/Concepts.md",
+                "file": "Card Former/design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Slime Warehouse/Concepts.md",
+                "file": "Card Former/design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Slime Warehouse/Concepts.md"
+                "file": "Card Former/design.md"
               }
             }
           }
@@ -146,15 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a5f90979838103ec",
+  "active": "251202e52d89daa3",
   "lastOpenFiles": [
+    "Slime Warehouse/Concepts.md",
     "Card Former/design.md",
     "Card Former",
     "writing/design.md",
     "writing",
     "Slime Warehouse/Creatures.md",
     "Slime Warehouse/Gameplay.md",
-    "Slime Warehouse/Concepts.md",
     "Slime Warehouse",
     "Untitled.canvas",
     "GDD.md",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Card Former/design.md",
+                "file": "Card Former/Abilities.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Card Former/design.md",
+                "file": "Card Former/Abilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Card Former/design.md",
+                "file": "Card Former/Abilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Card Former/design.md"
+                "file": "Card Former/Abilities.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "251202e52d89daa3",
   "lastOpenFiles": [
-    "Slime Warehouse/Concepts.md",
     "Card Former/design.md",
+    "Card Former/Abilities.md",
+    "Slime Warehouse/Concepts.md",
     "Card Former",
     "writing/design.md",
     "writing",

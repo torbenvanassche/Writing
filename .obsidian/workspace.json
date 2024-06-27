@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Card Former/design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a609514da5985ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Card Former/Abilities.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,9 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "251202e52d89daa3",
+  "active": "1a609514da5985ec",
   "lastOpenFiles": [
     "Card Former/design.md",
+    "Card Former/Game Themes.md",
     "Card Former/Abilities.md",
     "Slime Warehouse/Concepts.md",
     "Card Former",

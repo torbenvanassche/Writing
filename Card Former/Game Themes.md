@@ -1,0 +1,11 @@
+## Necromancy gone wrong
+The player is a necromancer who accidentally summoned himself to hell instead of the other way around and is trying to capitalize on the unfortunate situation and build a demon army in hell to assault the surface. To bend the greatest and most powerful demons to his will, though, he must best them. Could have some level of interaction with the Devil and trying to avoid notice by him while carrying out his/her tasks.
+
+Interaction with the devil, can be in the form of taking deals (obtaining unique cards). alternatively the player can also encounter gauntlets that are combat encounters where they can grow their army and get stronger summons for their battles. During these encounters demons mix ancient, modern, and future themed stages in twisted visages of their perception of what Earth was. The player must completed the gauntlet and escape to reap its rewards.
+
+The ultimate goal of the game is to reach the surface with your captured demons and subdue the humans with your newfound powers. This could be as simple as a boss encounter (eventually).
+
+## Player
+The player itself is a Viking necromancer. Covered in woad tattoos they have earned through their necromancy endeavors (Possibly even progression based?). they keep their amulets (= deck of cards for gameplay reasons) with abilities on their belt (or potentially some kind of prayer bead necklace). Wearing dark weathered robes and fur lined cloaks. Wielding a staff for regular attacks and to channel their powers. That staff is made from gnarled wood and could be rune-etched to invoke their talisman's power (potentially destroying the talisman in the process).
+
+The character is pale, with eyes that could glow if a spell is being channeled for visual clarity. Long hair and a beard to hint towards his Viking roots and stay thematic. In addition to that, they may also carry around a ritual dagger (perhaps to make a checkpoint by invoking some kind of ritual?) And a satchel carrying some components they can use to use their necromancy. 

@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "251202e52d89daa3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Card Former/design.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1a609514da5985ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Card Former/Abilities.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4994dae0b7d721a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Card Former/Example gameplay loop (demo - test).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Card Former/Abilities.md",
+                "file": "Card Former/Example gameplay loop (demo - test).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Card Former/Abilities.md",
+                "file": "Card Former/Example gameplay loop (demo - test).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Card Former/Abilities.md"
+                "file": "Card Former/Example gameplay loop (demo - test).md"
               }
             }
           }
@@ -159,17 +159,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a609514da5985ec",
+  "active": "4994dae0b7d721a4",
   "lastOpenFiles": [
+    "Card Former/Abilities.md",
+    "Card Former/Example gameplay loop (demo - test).md",
     "Card Former/design.md",
     "Card Former/Game Themes.md",
-    "Card Former/Abilities.md",
     "Slime Warehouse/Concepts.md",
+    "Slime Warehouse/Creatures.md",
+    "Slime Warehouse/Gameplay.md",
     "Card Former",
     "writing/design.md",
     "writing",
-    "Slime Warehouse/Creatures.md",
-    "Slime Warehouse/Gameplay.md",
     "Slime Warehouse",
     "Untitled.canvas",
     "GDD.md",
